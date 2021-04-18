@@ -1,0 +1,50 @@
+body {
+  background-color: whitesmoke;
+  font-size: large;
+}
+/* .Box {
+  text-align: center;
+}
+.QuantAndAdd,
+.PlusMinus {
+  display: flex;
+  flex-direction: row;
+}
+.QuantAndAdd {
+  padding: 10px;
+}
+.PlusMinus,
+.Minus {
+  padding-left: 10px;
+} */
+.entireBody {
+  display: flex;
+}
+.card {
+  border: 1px black solid;
+}
+img {
+  width: 200px;
+}
+.titleDesc {
+  padding: 5px;
+}
+.card {
+  width: 200px;
+}
+.title,
+.btn,
+.description {
+  text-align: center;
+  font-weight: 200;
+}
+.details {
+  font-weight: 200;
+  padding: 8px;
+}
+.title {
+  font-weight: 400;
+}
+.btn {
+  padding: 3px;
+}
